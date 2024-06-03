@@ -4,6 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class Person {
+    // Branch B2-edit code
     // name of current object(Person)
     private final String name;
     // all vertex(person) current person links to in the Friendship Graph.
